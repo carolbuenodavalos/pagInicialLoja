@@ -1,0 +1,2 @@
+# pagInicialLoja
+projeto inacabado
